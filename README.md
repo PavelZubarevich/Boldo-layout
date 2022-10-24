@@ -1,2 +1,9 @@
 # Boldo-layout
-html, scss, js, webpack
+
+Live preview using [GitHub Pages](https://pavelzubarevich.github.io/Boldo-layout/).
+
+Technologies:
+- html
+- scss
+- js
+- webpack
